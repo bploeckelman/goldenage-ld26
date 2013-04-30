@@ -1,0 +1,2 @@
+# Module com.gamedev.ld26.goldenage.GwtDefinition
+# RPC service class, partial path of RPC policy file
